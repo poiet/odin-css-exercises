@@ -11,7 +11,7 @@ div p{
     /*This is done using class*/
     .container .text{
         background-color: yellow;
-        color: red;
+        color: rgb(219, 64, 64);
         font-size: 20px;
         text-align: center;
     }
