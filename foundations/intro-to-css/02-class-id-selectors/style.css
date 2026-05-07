@@ -1,1 +1,21 @@
-/* Add CSS Styling */
+/* addind styling to all odd elements */
+.odd{
+    background-color: #e3acc5;
+    font-family: Verdana, Dejavu Sans,sans-serif;
+
+}
+/* addinf style to second element*/
+#second {
+    color: blue;
+    font-size: 36px;
+}
+
+.third{
+    font-size: 24px;
+}
+
+#fourth{
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
